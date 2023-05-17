@@ -2,6 +2,10 @@
 
 Biblioteca desenvolvida para facilitar aos desenvolvedores na Cherry.
 
+```diff
+    yarn add ch
+```
+
 ## Funcionamento
 
 1 - Instanciando as configurações com discord
