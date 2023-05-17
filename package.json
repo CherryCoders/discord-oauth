@@ -1,5 +1,5 @@
 {
-  "name": "discord-oauth",
+  "name": "@cherry-code/discord-oauth",
   "version": "1.0.0",
   "description": "Autenticação com Discord",
   "main": "./dist/src/index.js",
