@@ -3,7 +3,7 @@
 Biblioteca desenvolvida para facilitar aos desenvolvedores na Cherry.
 
 ```diff
-    yarn add ch
+    yarn add CherryCoders/@cherry-code/discord-oauth
 ```
 
 ## Funcionamento
