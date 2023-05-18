@@ -1,6 +1,6 @@
 {
   "name": "@cherry-code/discord-oauth",
-  "version": "1.0.2",
+  "version": "0.0.1",
   "description": "Autenticação com Discord",
   "main": "./dist/index.js",
   "types": "./delcarations/index.d.ts",
