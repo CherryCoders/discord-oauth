@@ -22,7 +22,6 @@
     "url": "https://github.com/CherryCoders/discord-oauth.git"
   },
   "dependencies": {
-    "@cherry-code/discord-oauth": "CherryCoders/discord-oauth#main",
     "axios": "^1.4.0",
     "csrf": "^3.1.0"
   },
