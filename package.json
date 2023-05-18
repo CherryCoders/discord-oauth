@@ -1,12 +1,13 @@
 {
   "name": "@cherry-code/discord-oauth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Autenticação com Discord",
   "main": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
   "author": "Eduardo Melo",
   "license": "MIT",
   "scripts": {
+    "build": "tsc",
     "test": "tsc & jest",
     "start": "node .",
     "start:build": "tsc && node .",
