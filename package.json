@@ -1,9 +1,9 @@
 {
   "name": "@cherry-code/discord-oauth",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Autenticação com Discord",
   "main": "./dist/index.js",
-  "types": "./delcarations/index.d.ts",
+  "types": "./declarations/index.d.ts",
   "author": "Eduardo Melo",
   "license": "MIT",
   "private": false,

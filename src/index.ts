@@ -1,3 +1,2 @@
-import { Client } from "./Client";
-import { flagsResponseType } from "./repository/constants/Client";
-export { Client, flagsResponseType };
+export * from "./Client";
+export * from "./repository/constants/Client";

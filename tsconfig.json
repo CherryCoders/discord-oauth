@@ -3,7 +3,7 @@
     "target": "es2016",
     "module": "commonjs",
     "outDir": "./dist",
-    "declarationDir": "distdelcarations",
+    "declarationDir": "dist/declarations",
     "rootDirs": ["./dist", "jest.config.ts"],
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
