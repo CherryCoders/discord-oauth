@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Autenticação com Discord",
   "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "types": "./delcarations/index.d.ts",
   "author": "Eduardo Melo",
   "license": "MIT",
   "scripts": {
