@@ -1,9 +1,9 @@
 {
   "name": "@cherry-code/discord-oauth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Autenticação com Discord",
-  "main": "./dist/src/index.js",
-  "types": "./dist/src/index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "author": "Eduardo Melo",
   "license": "MIT",
   "scripts": {
@@ -16,7 +16,12 @@
   "files": [
     "/dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CherryCoders/discord-oauth.git"
+  },
   "dependencies": {
+    "@cherry-code/discord-oauth": "CherryCoders/discord-oauth#main",
     "axios": "^1.4.0",
     "csrf": "^3.1.0"
   },
