@@ -1,36 +1,36 @@
 {
-  "name": "@cherry-code/discord-oauth",
-  "version": "0.0.5",
-  "description": "Autenticação com Discord",
-  "main": "./dist/index.js",
-  "types": "./declarations/index.d.ts",
-  "author": "Eduardo Melo",
-  "license": "MIT",
-  "private": false,
-  "scripts": {
-    "build": "tsc",
-    "test": "tsc & jest",
-    "start": "node .",
-    "start:build": "tsc && node .",
-    "start:dev": "tsc --watch"
-  },
-  "files": [
-    "/dist"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/CherryCoders/discord-oauth.git"
-  },
-  "dependencies": {
-    "axios": "^1.4.0",
-    "csrf": "^3.1.0"
-  },
-  "devDependencies": {
-    "@types/jest": "^29.5.1",
-    "jest": "^29.5.0",
-    "nodemon": "^2.0.22",
-    "ts-jest": "^29.1.0",
-    "ts-node-dev": "^2.0.0",
-    "typescript": "^5.0.4"
-  }
+    "name": "@cherry-code/discord-oauth",
+    "version": "0.0.6",
+    "description": "Autenticação com Discord",
+    "main": "./dist/index.js",
+    "types": "./declarations/index.d.ts",
+    "author": "Eduardo Melo",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+        "build": "tsc",
+        "test": "tsc & jest",
+        "start": "node .",
+        "start:build": "tsc && node .",
+        "start:dev": "tsc --watch"
+    },
+    "files": [
+        "/dist"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CherryCoders/discord-oauth.git"
+    },
+    "dependencies": {
+        "axios": "^1.4.0",
+        "csrf": "^3.1.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^29.5.1",
+        "jest": "^29.5.0",
+        "nodemon": "^2.0.22",
+        "ts-jest": "^29.1.0",
+        "ts-node-dev": "^2.0.0",
+        "typescript": "^5.0.4"
+    }
 }
