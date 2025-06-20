@@ -1,6 +1,6 @@
 {
     "name": "@cherry-code/discord-oauth",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "description": "Autenticação com Discord",
     "main": "./dist/index.js",
     "types": "./declarations/index.d.ts",
@@ -12,7 +12,8 @@
         "test": "tsc & jest",
         "start": "node .",
         "start:build": "tsc && node .",
-        "start:dev": "tsc --watch"
+        "start:dev": "tsc --watch",
+        "prepublishOnly": "npm run build"
     },
     "files": [
         "/dist"
